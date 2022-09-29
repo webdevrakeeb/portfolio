@@ -1,0 +1,324 @@
+@media only screen and (max-width: 768px){
+	.logo img {
+	  width: 200px;
+	}
+	.logo {
+	  text-align: center;
+	}	
+	nav ul {
+	  display: none;
+	}
+	.slicknav_menu {
+	  display: block;
+	  margin-top: 15px;
+	  background: none;
+	}	
+	.slicknav_nav ul li {
+	  width: 200px;
+	  text-align: center;
+	  margin: auto;
+	}
+	.slicknav_menu ul li a {
+	  color: #111;
+	  font-weight: 700;
+	}	
+	.identification img {
+	  max-width: 100%;
+	}
+	.identification {
+	  padding: 30px 0px;
+	}
+	.address {
+	  margin-top: 20px;
+	  text-align: center;
+	}
+	.address h2 {
+	  font-size: 20px;
+	  font-weight: 700;
+	}
+	.address h4 {
+	  font-size: 16px;
+	}
+	.address h5 {
+	  font-size: 16px;
+	}
+	.box {
+	  height: 300px;
+	}
+	.institutional_edu {
+	  width: 100%;
+	  margin: auto;
+	  text-align: justify;
+	}
+	.my_training {
+	  width: 100%;
+	  margin: auto;
+	  text-align: justify;
+	}	
+	.about {
+	  padding: 30px 0px;
+	}
+	.institutional_edu h4 {
+	  font-size: 17px;
+	}
+	.my_training h4 {
+	  font-size: 17px;
+	}
+	.web_development {
+	  width: 100%;
+	  margin: auto;
+	  text-align: justify;
+	  font-size: 20px;
+	  margin-top: 20px;
+	}	
+	.web_development p {
+	  font-size: 18px;
+	}
+	.my_projects h2 {
+	  text-align: center;
+	}
+	.my_projects p {
+	  margin-bottom: 30px;
+	}
+	.projects {
+	  padding: 30px 0px !important;
+	}
+	.utopic {
+	  margin-bottom: 30px;
+	}
+	.utopic a {
+	  text-align: left;
+	  margin-top: -7px;
+	}	
+	.tradition {
+	  margin-bottom: 25px;
+	}
+	.tradition a {
+	  text-align: left;
+	  margin-top: -7px;
+	}
+	.classiclean a {
+	  text-align: left;
+	  margin-top: -7px;
+	}	
+	.room {
+	  height: 300px;
+	}
+	#bor {
+	  margin-bottom: 0px !important;
+	}
+	#circle {
+	  margin-top: 30px;
+	}
+	.skew h2 {
+	  font-size: 20px;
+	  margin-bottom: 0px;
+	}
+	#visit {
+	  margin-bottom: 20px !important;
+	}
+	.visitor {
+	  padding: 30px 0px;
+	}
+	.pvisit h1 {
+	  font-size: 30px;
+	}
+	.everydayvisit h2 {
+	  font-size: 25px;
+	}
+	.everydayvisit h3 {
+	  margin-top: 0px !important;
+	  margin-bottom: 25px;
+	}
+	#contc{
+	  margin-top: 20px !important;
+	}
+	.contact {
+	  padding: 30px 0px;
+	}
+	.contact-from {
+	  margin-top: 40px;
+	}
+	.contact-from input[type=text] {
+	  width: 90%;
+	}
+	.contact-from input[type=email] {
+	  width: 90%;
+	  margin-top: 10px;
+	}	
+	#fotmb {
+	  margin-bottom: 0px;
+	  margin-top: 10px !important;
+  	  font-size: 14px;
+	}
+	.social-media-icon {
+	  margin-top: 8px !important;
+	}
+	.social-media-icon a {
+	  padding: 0px 8px;
+	}
+}
+
+
+
+/* MEDIA SCREEN 768 STYLE */
+@media only screen and (max-width: 576px){
+	.logo img {
+	  width: 200px;
+	}
+	.logo {
+	  text-align: center;
+	}	
+	nav ul {
+	  display: none;
+	}
+	.slicknav_menu {
+	  display: block;
+	  margin-top: 15px;
+	  background: none;
+	}	
+	.slicknav_nav ul li {
+	  width: 200px;
+	  text-align: center;
+	  margin: auto;
+	}	
+	.slicknav_menu ul li a {
+	  color: #111;
+	  font-weight: 700;
+	}
+	.identification img {
+	  max-width: 100%;
+	}
+	.identification {
+	  padding: 30px 0px;
+	}
+	.address {
+	  margin-top: 20px;
+	  text-align: center;
+	}	
+	.address h2 {
+	  font-size: 20px;
+	  font-weight: 700;
+	}
+	.address h4 {
+	  font-size: 16px;
+	}
+	.address h5 {
+	  font-size: 16px;
+	}
+	.box {
+	  height: 300px;
+	}
+	.institutional_edu {
+	  width: 100%;
+	  margin: auto;
+	  text-align: justify;
+	}
+	.my_training {
+	  width: 100%;
+	  margin: auto;
+	  text-align: justify;
+	}
+	.about {
+	  padding: 30px 0px;
+	}	
+	.institutional_edu h4 {
+	  font-size: 17px;
+	}
+	.my_training h4 {
+	  font-size: 17px;
+	}
+	.web_development {
+	  width: 100%;
+	  margin: auto;
+	  text-align: justify;
+	  font-size: 20px;
+	  margin-top: 20px;
+	}	
+	.web_development p {
+	  font-size: 18px;
+	}
+	.projects {
+	  padding: 30px 0px !important;
+	}
+	.my_projects h2 {
+	  text-align: center;
+	}
+	.my_projects p {
+	  margin-bottom: 30px;
+	}
+	.utopic {
+	  margin-bottom: 30px;
+	}
+	.utopic a {
+	  text-align: left;
+	  margin-top: -7px;
+	}	
+	.tradition {
+	  margin-bottom: 25px;
+	}
+	.tradition a {
+	  text-align: left;
+	  margin-top: -7px;
+	}
+	.classiclean a {
+	  text-align: left;
+	  margin-top: -7px;
+	}	
+	.room {
+	  height: 300px;
+	}
+	#bor {
+	  margin-bottom: 0px !important;
+	}
+	#circle {
+	  margin-top: 30px;
+	}
+	.skew h2 {
+	  font-size: 20px;
+	  margin-bottom: 0px;
+	}
+	#visit {
+	  margin-bottom: 20px !important;
+	}
+	.visitor {
+	  padding: 30px 0px;
+	}
+	.pvisit h1 {
+	  font-size: 30px;
+	}
+	.everydayvisit h2 {
+	  font-size: 25px;
+	}
+	.everydayvisit h3 {
+	  margin-top: 0px !important;
+	  margin-bottom: 25px;
+	}
+	#contc {
+	  margin-top: 20px !important;
+	}
+	.contact {
+	  padding: 30px 0px;
+	}
+	.contact-from {
+	  margin-top: 40px;
+	}
+	.contact-from input[type=text] {
+	  width: 90%;
+	}
+	.contact-from input[type=email] {
+	  width: 90%;
+	  margin-top: 10px;
+	}	
+	#fotmb {
+	  margin-bottom: 0px;
+	  margin-top: 10px !important;
+  	  font-size: 14px;
+	}
+	.social-media-icon {
+	  margin-top: 8px !important;
+	}
+	.social-media-icon a {
+	  padding: 0px 8px;
+	}
+}
